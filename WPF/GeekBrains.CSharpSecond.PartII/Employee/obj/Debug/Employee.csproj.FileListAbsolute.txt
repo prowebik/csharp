@@ -1,0 +1,42 @@
+C:\Users\ilya-\source\repos\GeekBrains.CSharpSecond.PartII\Employee\bin\Debug\Employee.exe.config
+C:\Users\ilya-\source\repos\GeekBrains.CSharpSecond.PartII\Employee\bin\Debug\Employee.exe
+C:\Users\ilya-\source\repos\GeekBrains.CSharpSecond.PartII\Employee\bin\Debug\Employee.pdb
+C:\Users\ilya-\source\repos\GeekBrains.CSharpSecond.PartII\Employee\obj\Debug\MainWindow.g.cs
+C:\Users\ilya-\source\repos\GeekBrains.CSharpSecond.PartII\Employee\obj\Debug\App.g.cs
+C:\Users\ilya-\source\repos\GeekBrains.CSharpSecond.PartII\Employee\obj\Debug\Employee_MarkupCompile.cache
+C:\Users\ilya-\source\repos\GeekBrains.CSharpSecond.PartII\Employee\obj\Debug\Employee_MarkupCompile.lref
+C:\Users\ilya-\source\repos\GeekBrains.CSharpSecond.PartII\Employee\obj\Debug\MainWindow.baml
+C:\Users\ilya-\source\repos\GeekBrains.CSharpSecond.PartII\Employee\obj\Debug\Employee.g.resources
+C:\Users\ilya-\source\repos\GeekBrains.CSharpSecond.PartII\Employee\obj\Debug\Employee.Properties.Resources.resources
+C:\Users\ilya-\source\repos\GeekBrains.CSharpSecond.PartII\Employee\obj\Debug\Employee.csproj.GenerateResource.cache
+C:\Users\ilya-\source\repos\GeekBrains.CSharpSecond.PartII\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\ilya-\source\repos\GeekBrains.CSharpSecond.PartII\Employee\obj\Debug\Employee.exe
+C:\Users\ilya-\source\repos\GeekBrains.CSharpSecond.PartII\Employee\obj\Debug\Employee.pdb
+C:\Users\ilya-\source\repos\GeekBrains.CSharpSecond.PartII\Employee\obj\Debug\EmployeeAddWindow.g.cs
+C:\Users\ilya-\source\repos\GeekBrains.CSharpSecond.PartII\Employee\obj\Debug\EmployeeAddWindow.baml
+C:\Users\ilya-\source\repos\GeekBrains.CSharpSecond.PartII\Employee\obj\Debug\Employee.csprojAssemblyReference.cache
+C:\Users\ilya-\source\repos\GeekBrains.CSharpSecond.PartII\Employee\obj\Debug\DepartmentAddWindow.g.cs
+C:\Users\ilya-\source\repos\GeekBrains.CSharpSecond.PartII\Employee\obj\Debug\DepartmentAddWindow.baml
+C:\Users\ilya-\source\repos\GeekBrains.CSharpSecond.PartII\Employee\obj\Debug\EmployeeEdit.g.cs
+C:\Users\ilya-\source\repos\GeekBrains.CSharpSecond.PartII\Employee\obj\Debug\EmployeeEdit.baml
+C:\Users\ilya-\Pictures\Новый комп\GeekBrains\GeekBrains.CSharpSecond.PartII\Employee\obj\Debug\DepartmentAddWindow.g.cs
+C:\Users\ilya-\Pictures\Новый комп\GeekBrains\GeekBrains.CSharpSecond.PartII\Employee\obj\Debug\EmployeeAddWindow.g.cs
+C:\Users\ilya-\Pictures\Новый комп\GeekBrains\GeekBrains.CSharpSecond.PartII\Employee\obj\Debug\EmployeeEdit.g.cs
+C:\Users\ilya-\Pictures\Новый комп\GeekBrains\GeekBrains.CSharpSecond.PartII\Employee\obj\Debug\MainWindow.g.cs
+C:\Users\ilya-\Pictures\Новый комп\GeekBrains\GeekBrains.CSharpSecond.PartII\Employee\obj\Debug\App.g.cs
+C:\Users\ilya-\Pictures\Новый комп\GeekBrains\GeekBrains.CSharpSecond.PartII\Employee\obj\Debug\Employee_MarkupCompile.cache
+C:\Users\ilya-\Pictures\Новый комп\GeekBrains\GeekBrains.CSharpSecond.PartII\Employee\obj\Debug\Employee_MarkupCompile.lref
+C:\Users\ilya-\Pictures\Новый комп\GeekBrains\GeekBrains.CSharpSecond.PartII\Employee\bin\Debug\Employee.exe.config
+C:\Users\ilya-\Pictures\Новый комп\GeekBrains\GeekBrains.CSharpSecond.PartII\Employee\bin\Debug\Employee.exe
+C:\Users\ilya-\Pictures\Новый комп\GeekBrains\GeekBrains.CSharpSecond.PartII\Employee\bin\Debug\Employee.pdb
+C:\Users\ilya-\Pictures\Новый комп\GeekBrains\GeekBrains.CSharpSecond.PartII\Employee\obj\Debug\DepartmentAddWindow.baml
+C:\Users\ilya-\Pictures\Новый комп\GeekBrains\GeekBrains.CSharpSecond.PartII\Employee\obj\Debug\EmployeeAddWindow.baml
+C:\Users\ilya-\Pictures\Новый комп\GeekBrains\GeekBrains.CSharpSecond.PartII\Employee\obj\Debug\EmployeeEdit.baml
+C:\Users\ilya-\Pictures\Новый комп\GeekBrains\GeekBrains.CSharpSecond.PartII\Employee\obj\Debug\MainWindow.baml
+C:\Users\ilya-\Pictures\Новый комп\GeekBrains\GeekBrains.CSharpSecond.PartII\Employee\obj\Debug\Employee.g.resources
+C:\Users\ilya-\Pictures\Новый комп\GeekBrains\GeekBrains.CSharpSecond.PartII\Employee\obj\Debug\Employee.Properties.Resources.resources
+C:\Users\ilya-\Pictures\Новый комп\GeekBrains\GeekBrains.CSharpSecond.PartII\Employee\obj\Debug\Employee.csproj.GenerateResource.cache
+C:\Users\ilya-\Pictures\Новый комп\GeekBrains\GeekBrains.CSharpSecond.PartII\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\ilya-\Pictures\Новый комп\GeekBrains\GeekBrains.CSharpSecond.PartII\Employee\obj\Debug\Employee.exe
+C:\Users\ilya-\Pictures\Новый комп\GeekBrains\GeekBrains.CSharpSecond.PartII\Employee\obj\Debug\Employee.pdb
+C:\Users\ilya-\Pictures\Новый комп\GeekBrains\GeekBrains.CSharpSecond.PartII\Employee\obj\Debug\Employee.csprojAssemblyReference.cache
